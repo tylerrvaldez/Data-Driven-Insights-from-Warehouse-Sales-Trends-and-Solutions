@@ -5,7 +5,7 @@ Data Analysis and Visualization study on Profits and Sales of a Supermarket Chai
 This project analyzes sales performance data to uncover trends, seasonal patterns, and factors affecting sales growth. The goal is to provide actionable insights for sales optimization and strategic decision-making.
 
 ## Project Preview
-![Sales Dashboard Screenshot]Graphs/Dashboard Screenshot.png
+![Sales Dashboard Screenshot] (Graphs/Dashboard Screenshot.png)
 
 ## Data Source
 The sales data was sourced from https://www.kaggle.com/datasets/vivek468/superstore-dataset-final which contains transaction details across various regions, product categories, and customer segments.
